@@ -22,5 +22,12 @@ Criado como exercício de HTML5, CSS3 e JavaScript para aprimorar habilidades de
 ---
 
 ## 📁 Estrutura de Pastas
-
+projeto-store/
+├── imagens/
+│ ├── produto1.jpg
+│ ├── produto2.jpg
+│ └── …
+├── index.html
+├── styles.css
+└── scripts.js
 
